@@ -1,0 +1,20 @@
+{
+  "name": "react-native-demo-lib_ic",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.61.5"
+  },
+  "dependencies": {
+    "react-native": "^0.61.5"
+  }
+}
